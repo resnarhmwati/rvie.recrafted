@@ -1,0 +1,1 @@
+Add your own images here: logo.svg, hero.jpg, bound.jpg, model-02.jpg, model-03.jpg, model-04.jpg. Replace slots with your actual brand and product photography.
